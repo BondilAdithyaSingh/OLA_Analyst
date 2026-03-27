@@ -1,6 +1,3 @@
-Got it — you want a **complete GitHub README (badges + visuals + professional look)**. Here’s a polished version you can directly paste into your `README.md` 👇
-
----
 
 # 🚖 Ola Data Analytics Project
 
