@@ -44,6 +44,10 @@ Analyzed Ola ride-booking dataset using SQL and Power BI to extract insights on 
 ---
 
 ## 📈 Dashboard Preview
+<img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/990c73f4-c5cf-425b-9787-2f0f8cb089d3" />
+<img width="1919" height="1069" alt="Screenshot 2026-03-27 143242" src="https://github.com/user-attachments/assets/7a0b7451-7ed7-42cb-a701-f708b8a836c4" />
+<img width="1919" height="1009" alt="Screenshot 2026-03-27 143233" src="https://github.com/user-attachments/assets/5cccc77b-dcce-46be-985d-ee539795b4d5" />
+
 
 
 ## 🚀 Features
@@ -70,17 +74,5 @@ Analyzed Ola ride-booking dataset using SQL and Power BI to extract insights on 
 
 This project showcases end-to-end data analytics — from raw data processing to building impactful dashboards and extracting actionable insights.
 
----
 
-## 🔗 Connect with Me
 
-* LinkedIn: *(Add your link here)*
-* GitHub: *(Your profile link)*
-
----
-
-If you want next-level polish, I can also:
-
-* Add **animated badges**
-* Create a **custom dashboard screenshot design**
-* Optimize this for **recruiter impact (🔥 portfolio version)**
