@@ -1,33 +1,86 @@
-🚖 Ola Data Analytics Project
+Got it — you want a **complete GitHub README (badges + visuals + professional look)**. Here’s a polished version you can directly paste into your `README.md` 👇
 
-This project focuses on analyzing ride-booking data from Ola to uncover meaningful business insights and improve decision-making. The dataset was processed and analyzed using SQL and visualized through an interactive Power BI dashboard.
+---
 
-📌 Project Objectives
-Analyze booking patterns and ride trends
-Understand customer behavior (successful vs cancelled rides)
-Evaluate vehicle performance across different categories
-Identify key factors affecting revenue and ride completion
-🛠️ Tools & Technologies
-SQL (MySQL / PostgreSQL) – Data cleaning, transformation, and querying
-Power BI – Data visualization and dashboard creation
-Excel / CSV – Dataset handling
-📊 Key Analysis Performed
-Total bookings, successful vs cancelled rides
-Revenue and total rides analysis
-Average ride distance by vehicle type
-Cancellation trends (by customers & drivers)
-Peak booking time analysis
-Vehicle-wise performance comparison
-📈 Dashboard Features
-Interactive filters for dynamic analysis
-KPI cards for quick insights (Revenue, Rides, Cancellation Rate)
-Trend analysis using charts and graphs
-Category-wise and time-based breakdowns
-💡 Key Insights
-Identified high-demand time slots and peak hours
-Found major reasons for ride cancellations
-Highlighted top-performing vehicle categories
-Provided actionable insights to improve operational efficiency
-🚀 Conclusion
+# 🚖 Ola Data Analytics Project
 
-This project demonstrates end-to-end data analytics skills — from data cleaning and SQL querying to building a business-focused dashboard. It showcases how raw data can be transformed into actionable insights for better decision-making.
+![SQL](https://img.shields.io/badge/SQL-Data%20Analysis-blue)
+![Power BI](https://img.shields.io/badge/PowerBI-Dashboard-yellow)
+![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
+![License](https://img.shields.io/badge/License-MIT-lightgrey)
+
+---
+
+## 📌 Project Overview
+
+Analyzed Ola ride-booking dataset using SQL and Power BI to extract insights on bookings, cancellations, revenue, and customer behavior. Built an interactive dashboard to support data-driven decision-making.
+
+---
+
+## 🎯 Objectives
+
+* Understand booking trends and ride patterns
+* Analyze cancellations (customer vs driver)
+* Evaluate vehicle-wise performance
+* Identify revenue drivers and peak hours
+
+---
+
+## 🛠️ Tech Stack
+
+* **SQL (MySQL/PostgreSQL)** – Data cleaning & analysis
+* **Power BI** – Dashboard & visualization
+* **Excel/CSV** – Data source
+
+---
+
+## 📊 Key Insights
+
+* Peak booking hours identified
+* High cancellation patterns analyzed
+* Revenue trends by vehicle type
+* Customer behavior segmentation
+
+---
+
+## 📈 Dashboard Preview
+
+
+## 🚀 Features
+
+* Interactive filters & slicers
+* KPI Cards (Revenue, Rides, Cancellation Rate)
+* Trend analysis charts
+* Vehicle-wise comparison
+
+---
+
+## 📂 Project Structure
+
+```
+├── Dataset/
+├── SQL Queries/
+├── PowerBI Dashboard/
+├── README.md
+```
+
+---
+
+## 💡 Conclusion
+
+This project showcases end-to-end data analytics — from raw data processing to building impactful dashboards and extracting actionable insights.
+
+---
+
+## 🔗 Connect with Me
+
+* LinkedIn: *(Add your link here)*
+* GitHub: *(Your profile link)*
+
+---
+
+If you want next-level polish, I can also:
+
+* Add **animated badges**
+* Create a **custom dashboard screenshot design**
+* Optimize this for **recruiter impact (🔥 portfolio version)**
